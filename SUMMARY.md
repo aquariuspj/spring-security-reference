@@ -1,7 +1,6 @@
 # Summary
 
 * [I. 序章](I. Preface/README.md)
-<<<<<<< HEAD
     * [1. 开始](I. Preface/1. Getting Started.md)
     * [2. 简介](I. Preface/2. Introduction/README.md)
         * [2.1. Spring Security 是什么](I. Preface/2. Introduction/2.1 What is Spring Security.md)
@@ -25,31 +24,6 @@
                 * [OpenID - spring-security-openid.jar](I. Preface/2. Introduction/2.4. Getting Spring Security.md)
                 * [Test - spring-security-test.jar](I. Preface/2. Introduction/2.4. Getting Spring Security.md)
             * [2.4.4. 检出源码](I. Preface/2. Introduction/2.4. Getting Spring Security.md)
-=======
-    * [1. 开始](I.%20Preface/1.%20Getting%20Started.md)
-    * [2. 简介](I.%20Preface/2.%20Introduction.md)
-        * [2.1. Spring Security 是什么](I. Preface/2. Introduction.md#2.1)
-        * [2.2. 背景](I.%20Preface/2.%20Introduction.md#2.2)
-        * [2.3. 版本编号](I.%20Preface/2.%20Introduction.md#2.3)
-        * [2.4. 获取Spring Security](I.%20Preface/2.%20Introduction.md#2.4)
-            * [2.4.1. 使用Maven](I.%20Preface/2.%20Introduction.md#2.4.1)
-                * [Maven 仓库](I.%20Preface/2.%20Introduction.md#2.4.1.1)
-                * [Spring Framework Bom](I.%20Preface/2.%20Introduction.md#2.4.1.2)
-            * [2.4.2. Gradle](I.%20Preface/2.%20Introduction.md#2.4.2)
-                * [Gradle 仓库](I.%20Preface/2.%20Introduction.md#2.4.2.1)
-                * [Spring 4.0.x 与 Gradle 的使用](I.%20Preface/2.%20Introduction.md#2.4.2.2)
-            * [2.4.3. 项目模块](I.%20Preface/2.%20Introduction.md#2.4.3)
-                * [Core - spring-security-core.jar](I.%20Preface/2.%20Introduction.md#2.4.3.1)
-                * [Remoting - spring-security-remoting.jar](I.%20Preface/2.%20Introduction.md#2.4.3.2)
-                * [Web - spring-security-web.jar](I.%20Preface/2.%20Introduction.md#2.4.3.3)
-                * [Config - spring-security-config.jar](I.%20Preface/2.%20Introduction.md#2.4.3.4)
-                * [LDAP - spring-security-ldap.jar](I.%20Preface/2.%20Introduction.md#2.4.3.5)
-                * [ACL - spring-security-acl.jar](I.%20Preface/2.%20Introduction.md#2.4.3.6)
-                * [CAS - spring-security-cas.jar](I.%20Preface/2.%20Introduction.md#2.4.3.7)
-                * [OpenID - spring-security-openid.jar](I.%20Preface/2.%20Introduction.md#2.4.3.8)
-                * [Test - spring-security-test.jar](I.%20Preface/2.%20Introduction.md#2.4.3.9)
-            * [2.4.4. 检出源码](I.%20Preface/2.%20Introduction.md#2.4.4)
->>>>>>> 413e8e6cafc40fcc3416dcc3aa4456c3a4a01dec
     * [3. Spring Security 4.1 的新特性](spring-security.md)
         * [3.1. Java配置改进](31-java配置改进.md)
         * 3.2. Web Application Security改进
