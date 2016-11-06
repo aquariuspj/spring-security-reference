@@ -3,7 +3,7 @@
 * [I. 序章](I. Preface/README.md)
     * [1. 开始](I.%20Preface/1.%20Getting%20Started.md)
     * [2. 简介](I.%20Preface/2.%20Introduction.md)
-        * [2.1. Spring Security 是什么](I.%20Preface/2.%20Introduction.md#2.1)
+        * [2.1. Spring Security 是什么](I. Preface/2. Introduction.md#2.1)
         * [2.2. 背景](I.%20Preface/2.%20Introduction.md#2.2)
         * [2.3. 版本编号](I.%20Preface/2.%20Introduction.md#2.3)
         * [2.4. 获取Spring Security](I.%20Preface/2.%20Introduction.md#2.4)
