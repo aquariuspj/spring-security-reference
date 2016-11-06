@@ -1,6 +1,6 @@
 # Summary
 
-* [I. 序章](I.%20Preface/README.md)
+* [I. 序章](I. Preface/README.md)
     * [1. 开始](I.%20Preface/1.%20Getting%20Started.md)
     * [2. 简介](I.%20Preface/2.%20Introduction.md)
         * [2.1. Spring Security 是什么](I.%20Preface/2.%20Introduction.md#2.1)
