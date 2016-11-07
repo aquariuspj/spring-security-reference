@@ -24,50 +24,50 @@
                 * [OpenID - spring-security-openid.jar](I. Preface/2. Introduction/2.4. Getting Spring Security.md)
                 * [Test - spring-security-test.jar](I. Preface/2. Introduction/2.4. Getting Spring Security.md)
             * [2.4.4. 检出源码](I. Preface/2. Introduction/2.4. Getting Spring Security.md)
-    * [3. Spring Security 4.1 的新特性](spring-security.md)
-        * [3.1. Java配置改进](31-java配置改进.md)
-        * 3.2. Web Application Security改进
-        * 3.3. Authorization改进
-        * 3.4. 密码模块改进
-        * 3.5. 测试改进
-        * 3.6. 通用改进
-    * [4. 示例与指南\(从这开始\)](asd.md)
-    * [5. Java 配置](5java.md)
-        * 5.1. Hello Web Security Java 配置
+    * [3. Spring Security 4.1 的新特性](I. Preface/3. What’s New in Spring Security 4.1/README.md)
+        * [3.1. Java配置改进](I. Preface/3. What’s New in Spring Security 4.1/3.1 Java Configuration Improvements.md)
+        * [3.2. Web Application Security改进](I. Preface/3. What’s New in Spring Security 4.1/3.2 Web Application Security Improvements.md)
+        * [3.3. Authorization改进](I. Preface/3. What’s New in Spring Security 4.1/3.3 Authorization Improvements.md)
+        * [3.4. 密码模块改进](I. Preface/3. What’s New in Spring Security 4.1/3.4 Crypto Module Improvements.md)
+        * [3.5. 测试改进](I. Preface/3. What’s New in Spring Security 4.1/3.5 Testing Improvements.md)
+        * [3.6. 通用改进](I. Preface/3. What’s New in Spring Security 4.1/3.6 General Improvements.md)
+    * [4. 示例与指南(从这开始)](I. Preface/4. Samples and Guides (Start Here).md)
+    * [5. Java 配置](5. Java Configuration/README.md)
+        * [5.1. Hello Web Security Java Configuration](5. Java Configuration/5.1 Hello Web Security Java Configuration.md)
             * 5.1.1. AbstractSecurityWebApplicationInitializer
             * 5.1.2. AbstractSecurityWebApplicationInitializer 用于非Spring框架下
             * 5.1.3. AbstractSecurityWebApplicationInitializer 用于Spring MVC
-        * 5.2. HttpSecurity
-        * 5.3. Java配置 与 表单登陆
-        * 5.4. Authorize请求
-        * 5.5. 注销操作
+        * [5.2. HttpSecurity](5. Java Configuration/5.2 HttpSecurity.md)
+        * [5.3. Java配置与表单登陆](5. Java Configuration/5.3 Java Configuration and Form Login.md)
+        * [5.4. 请求授权](5. Java Configuration/5.4 Authorize Requests.md)
+        * [5.5. 注销操作](5. Java Configuration/5.5 Handling Logouts.md)
             * 5.5.1. LogoutHandler
             * 5.5.2. LogoutSuccessHandler
             * 5.5.3. 更多注销相关的说明
-        * [5.6. 权限](56-权限.md)
+        * [5.6. 认证](5. Java Configuration/5.6 Authentication.md)
             * 5.6.1. 内存中的权限认证
-            * [5.6.2. JDBC 权限认证](562-jdbc-权限认证.md)
-            * [5.6.3. LDAP 权限认证](563-ldap权限认证.md)
+            * 5.6.2. JDBC 权限认证
+            * 5.6.3. LDAP 权限认证
             * 5.6.4. AuthenticationProvider
             * 5.6.5. UserDetailsService
             * 5.6.6. LDAP 权限认证
-        * 5.7. Multiple HttpSecurity
-        * 5.8. Method Security
+        * [5.7. Multiple HttpSecurity](5. Java Configuration/5.7 Multiple HttpSecurity.md)
+        * [5.8. Method Security](5. Java Configuration/5.8 Method Security.md)
             * 5.8.1. EnableGlobalMethodSecurity
             * 5.8.2. GlobalMethodSecurityConfiguration
-        * 5.9. 提交配置处理对象
-    * [6. Security Namespace配置](asd.md)
+        * [5.9. 提交配置处理对象](5. Java Configuration/5.9 Post Processing Configured Objects.md)
+    * [6. Security Namespace配置](6. Security Namespace Configuration/README.md)
         * 6.1. 简介
             * 6.1.1. Namespace的设计
         * 6.2. 开始Security Namespace配置
             * 6.2.1. web.xml 配置
-            * 6.2.2. 最简单的 &lt;http&gt; 配置
+            * 6.2.2. 最简单的 `<http>` 配置
             * 6.2.3. 表单与基本登陆选项
                 * 设置默认的登陆提交地址
             * 6.2.4. 注销操作
             * 6.2.5. 使用其他的Authentication Providers
                 * 加入密码编码器
-        * [6.3. 高级Web功能](63-高级web功能.md)
+        * 6.3. 高级Web功能
             * 6.3.1. Remember-Me Authentication
             * 6.3.2. 添加 HTTP\/HTTPS 渠道安全
             * 6.3.3. Session 管理
@@ -85,7 +85,7 @@
         * 6.5. 默认的 AccessDecisionManager
             * 6.5.1. 自定义 AccessDecisionManager
         * 6.6. 权限管理器与命名空间
-    * [7. 应用示例](a.md)
+    * 7. 应用示例
         * 7.1. Tutorial Sample
         * 7.2. Contacts
         * 7.3. LDAP Sample
@@ -93,8 +93,8 @@
         * 7.5. CAS Sample
         * 7.6. JAAS Sample
         * 7.7. Pre-Authentication Sample
-    * [8. Spring Security 社区](asdasd.md)
-        * [8.1. Issue Tracking](issue-tracking.md)
+    * 8. Spring Security 社区
+        * 8.1. Issue Tracking
         * 8.2. 参与其中
         * 8.3. 更多信息
 * II. Architecture and Implementation
@@ -104,4 +104,5 @@
 * VI. Additional Topics
 * VII. Spring Data Integration
 * VIII. Appendix
+
 
