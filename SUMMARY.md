@@ -34,5 +34,5 @@
         * [7.5 CAS示例](I. Preface/7. Sample Applications.md)
         * [7.6 JAAS示例](I. Preface/7. Sample Applications.md)
         * [7.7 预认证示例](I. Preface/7. Sample Applications.md)
-* [II. Architecture and Implementation](README.md)
+
 
