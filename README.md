@@ -5,6 +5,10 @@
 > **版本** 4.1.3.RELEASE  
 > **官方链接** <http://docs.spring.io/spring-security/site/docs/4.1.3.RELEASE/reference/htmlsingle/>
 
+## 注意
+
+为了更便于编辑和排版，本项目已经迁移至<https://github.com/aquariuspj/spring-security-reference-cn>，并使用AsciiDoc格式。
+
 ## 说明
 
 在翻译中进步与学习先进的编程技术。
